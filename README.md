@@ -1,17 +1,18 @@
+# Responsive Music App
+
+## [Watch it on YouTube](https://youtu.be/Sr70xSqxr14)
+
+### Home Screen
+
 ![thumbnail](https://user-images.githubusercontent.com/84274595/123540950-d4682680-d76b-11eb-97ec-053ceecec2d0.png)
-# music_app
+![music - demo 1](https://user-images.githubusercontent.com/89120990/135756312-3a2133e9-8ee8-4dd4-adb9-faf181707d5e.gif)
+![music - demo 2](https://user-images.githubusercontent.com/89120990/135756316-09872441-5183-45b5-aa3c-100d56033717.gif)
+![bg_tab_1](https://user-images.githubusercontent.com/89120990/135756289-5aad49fb-de1a-41ff-be11-788c0f1f5818.gif)
 
-A new Flutter project.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+**Dependencies:**
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- [font_awesome_flutter](https://pub.dev/packages/font_awesome_flutter)
+- [flutter_svg](https://pub.dev/packages/flutter_svg)
+- [get](https://pub.dev/packages/get)

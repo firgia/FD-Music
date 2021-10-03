@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="20.5" height="20.314" viewBox="0 0 20.5 20.314">
+  <g id="Repeat" transform="translate(0.75 2.75)">
+    <path id="Shape" d="M.369,8.228A.365.365,0,0,1,0,7.869,4.739,4.739,0,0,1,4.806,3.212h8.871V0l5.064,3.57L13.677,7.14V3.928H4.806A4.01,4.01,0,0,0,.74,7.869.365.365,0,0,1,.369,8.228Zm14.047-6.82V5.733L17.484,3.57Z" transform="translate(0.259 -2)" fill="#5e77fb" stroke="#5e77fb" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+    <path id="Shape-2" data-name="Shape" d="M5.064,8.228h0L0,4.658,5.064,1.087V4.3h8.871A4.01,4.01,0,0,0,18,.358a.37.37,0,0,1,.74,0,4.739,4.739,0,0,1-4.806,4.658H5.064V8.228ZM4.325,2.5,1.257,4.658,4.325,6.82Z" transform="translate(0 8.586)" fill="#fff" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+  </g>
+</svg>

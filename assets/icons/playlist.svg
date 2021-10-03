@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="17.41" height="17.5" viewBox="0 0 17.41 17.5">
+  <g id="Group_51" data-name="Group 51" transform="translate(-77.838 -180.798)">
+    <g id="Group_49" data-name="Group 49" transform="translate(78.838 181.298)">
+      <g id="Icon_ionic-ios-albums" data-name="Icon ionic-ios-albums" transform="translate(1.541 0)">
+        <path id="Path_39" data-name="Path 39" d="M16.376,8.282H4.949A.451.451,0,0,1,4.5,7.832h0a.451.451,0,0,1,.449-.449H16.376a.451.451,0,0,1,.449.449h0A.451.451,0,0,1,16.376,8.282Z" transform="translate(-4.5 -4.565)" stroke="#000" stroke-width="1"/>
+        <path id="Path_40" data-name="Path 40" d="M16.611,4.344H7.161a.414.414,0,0,1-.411-.411V3.856a.414.414,0,0,1,.411-.411h9.45a.414.414,0,0,1,.411.411v.077A.414.414,0,0,1,16.611,4.344Z" transform="translate(-5.723 -3.445)" stroke="#000" stroke-width="1"/>
+      </g>
+      <path id="Path_43" data-name="Path 43" d="M15.406,11.32H2.252a1.13,1.13,0,0,0-1.127,1.127v7.444a1.13,1.13,0,0,0,1.127,1.127H15.409a1.13,1.13,0,0,0,1.127-1.127V12.447A1.135,1.135,0,0,0,15.406,11.32Z" transform="translate(-1.125 -5.017)" fill="none" stroke="#000" stroke-width="2"/>
+    </g>
+    <path id="Icon_feather-play" data-name="Icon feather-play" d="M7.5,4.5l3.739,2.4L7.5,9.308Z" transform="translate(77.245 185.733)" fill="none" stroke="#5e77fb" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+  </g>
+</svg>
